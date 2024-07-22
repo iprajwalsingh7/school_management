@@ -1,6 +1,8 @@
 # school_management
 
 //the following sql code
+//Do create an sql directory also.
+ 
 
 CREATE TABLE students (
     id INT AUTO_INCREMENT PRIMARY KEY,
